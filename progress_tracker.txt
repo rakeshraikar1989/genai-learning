@@ -1,0 +1,28 @@
+Day: 4
+Topic: For Loops
+
+Learned:
+- range(start, end, step)
+- Modulus operator (%)
+- Loop + condition
+- Accumulator logic
+- f-strings
+
+Practiced:
+- Basic loop
+- Even numbers
+- Squares
+- Reverse numbers
+- Sum of numbers
+- Multiplication table
+
+Mistakes:
+- Used *2 in range
+- Used variable before defining
+- Printed inside loop incorrectly
+- Indentation confusion
+
+Fixes:
+- Understood step in range
+- Learned accumulator
+- Learned indentation importance
